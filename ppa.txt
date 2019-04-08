@@ -1,6 +1,4 @@
 ppa:gnome3-team/gnome3
 ppa:deadsnakes/ppa
-ppa:mystic-mirage/pycharm
-ppa:webupd8team/sublime-text-3
 ppa:rael-gc/rvm
 ppa:neovim-ppa/stable

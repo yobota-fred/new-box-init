@@ -7,12 +7,10 @@ byobu
 exuberant-ctags
 silversearcher-ag
 neovim
-pycharm
-sublime-text
 python3.6
 python3.6-dev
 python3-pip
-postgresql
-postgresql-server-dev-9.6
+postgresql-client
 libpq-dev
 openvpn
+zsh
